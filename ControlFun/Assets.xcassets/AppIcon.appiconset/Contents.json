@@ -1,9 +1,21 @@
 {
   "images" : [
     {
+      "size" : "20x20",
+      "idiom" : "iphone",
+      "filename" : "Apress-logo.png",
+      "scale" : "2x"
+    },
+    {
       "idiom" : "iphone",
       "size" : "20x20",
       "scale" : "2x"
+    },
+    {
+      "size" : "20x20",
+      "idiom" : "iphone",
+      "filename" : "Apress-logo 2.png",
+      "scale" : "3x"
     },
     {
       "idiom" : "iphone",
